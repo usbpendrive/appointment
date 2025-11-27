@@ -1,0 +1,20 @@
+{
+  "name": "appointment-app",
+  "version": "1.0.0",
+  "description": "AppointmentApp",
+  "homepage": "https://github.com/usbpendrive/appointment#readme",
+  "bugs": {
+    "url": "https://github.com/usbpendrive/appointment/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usbpendrive/appointment.git"
+  },
+  "license": "MIT",
+  "author": "usbpendrive",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
